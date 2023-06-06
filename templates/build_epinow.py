@@ -7,7 +7,6 @@ cwd = (os.sep).join(os.path.realpath(__file__).split(os.sep)[0:-1])
 
 def build(data, log, cores=12):
 
-    cores = 10
     chains = cores
     file_loader = FileSystemLoader(cwd)
     env = Environment(loader=file_loader)
