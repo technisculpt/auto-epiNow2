@@ -1,4 +1,4 @@
-# auto-epiNow2
+# auto EpiNow2
 
 Sequentially run a folder of datasets through epiNow2, show stdout to screen & log it to a file
 
