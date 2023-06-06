@@ -1,0 +1,17 @@
+EpiNow2
+readr
+Rcpp
+rstantools
+R.utils
+data.table
+futile.logger
+future
+future.apply
+ggplot2
+lubridate
+patchwork
+progressr
+purrr
+rstan
+runner
+truncnorm
